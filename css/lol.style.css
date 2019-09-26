@@ -1,0 +1,122 @@
+body{
+  font-family: "roboto";
+  width: 95%;
+  height:100%;
+  background-image:url('../img/lol1.jpg');
+  background-position:center top;
+  margin-top: 65px;
+}
+
+.login{
+  margin-left:470px;
+  padding-top: 10px;
+  padding-left: 5px;
+  display: inline-block;
+  border: 2px solid #463714 ;
+  width:400px;
+  height: 550px;
+  background-color:#010A13;
+  color:#A09B8C;
+
+}
+
+
+input[type=text]
+{
+  background-color:#1E2328;margin-top: 5px;
+  border: 1px solid;
+  border-color:#785A28;
+  width: 350px;
+  height: 30px;
+  opacity:3;
+  font-family: 'Catamaran', sans-serif;
+}
+
+
+
+
+input[type=submit]
+{
+  background-color:#1E2328;
+  border:2px solid;
+  border-color:#5C5B57;
+  margin-left:20px;
+  width: 350px;
+  height: 40px;
+  color:#5C5B57;
+  font-size:17px;
+
+}
+
+select{
+  background-color:#1E2328;
+  width: 350px;
+  height: 30px;
+  color: #CDBE91;
+  border-color:#785A28;
+
+}
+
+
+a{
+  text-decoration: none;
+  margin-left:20px;
+  margin-right: 20px;
+  color:#CDBE91;
+  font-size: 12px;
+}
+
+p{
+  margin-left: 20px;
+}
+
+hr{
+  color:#463714 ;
+}
+
+h2{
+  margin-left: 20px;
+  color:#F0E6D2;
+}
+
+#img1{
+margin-left: 550px;
+margin-top: 0px;
+margin-bottom:0px;
+}
+
+#img2{
+margin-left: 475px;
+display: inline-block;
+float: left;
+}
+
+.final{
+  color:#5B5A56;
+  margin-left: 10px;
+  margin-top: 0;
+  float:top;
+
+}
+
+#p1{
+  display:block;
+  color:#A09B8C;
+  margin-top:0px;
+  font-size: 11px;
+
+}
+
+#p2{
+    display:block;
+    margin-top:0px;
+    line-height: 12px;
+    font-size: 10px;
+}
+
+.final-p{
+  display: inline-block;
+  margin-left:0px;
+  margin-top:0px;
+  width:400px;
+}
